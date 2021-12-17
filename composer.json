@@ -1,0 +1,23 @@
+{
+  "name": "php/mvc",
+  "description": "PHP Framework",
+  "keywords": [
+    "PHP","PHP Framework"
+  ],
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "fengyalei",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "php":">=7.2.0",
+    "guzzlehttp/guzzle": "^7.4",
+    "filp/whoops": "^2.14",
+    "symfony/var-dumper": "^5.4",
+    "catfan/medoo": "^2.1",
+    "twig/twig": "^3.3"
+  }
+}
